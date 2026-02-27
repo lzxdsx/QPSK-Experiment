@@ -1,5 +1,5 @@
 # QPSK Wireless Baseband Transceiver Simulation
-
+## Wireless Communication Receiver Algorithm Course Project
 ---
 
 ## Requirements
@@ -23,8 +23,6 @@ python QPSK_project.py
 ## Author
 
 Zhangxy Li  
-
-### Wireless Communication Receiver Algorithm Course Project
 
 ##  Project Overview
 
