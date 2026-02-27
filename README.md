@@ -1,5 +1,5 @@
 # QPSK Wireless Baseband Transceiver Simulation
-## Wireless Communication Receiver Algorithm Course Project
+## Wireless Communication Receiver Algorithm Project
 ---
 
 ## Requirements
