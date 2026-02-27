@@ -24,7 +24,7 @@ python QPSK_project.py
 
 Zhangxy Li  
 
-###Wireless Communication Receiver Algorithm Course Project
+### Wireless Communication Receiver Algorithm Course Project
 
 ##  Project Overview
 
